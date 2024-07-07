@@ -1,0 +1,2 @@
+# iterm
+my iterm settings
